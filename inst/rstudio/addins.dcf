@@ -1,0 +1,5 @@
+
+Name: Insert double hash
+Description: Inserts `## ` at the cursor position.
+Binding: insertDoubleHash
+Interactive: false

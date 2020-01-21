@@ -1,0 +1,4 @@
+
+insertDoubleHash <- function() {
+  rstudioapi::insertText("## ")
+}
